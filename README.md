@@ -72,6 +72,12 @@ This repository presents a theoretical framework intended for discussion, simula
 
 ---
 
+## Citation
+
+DOI: https://doi.org/10.5281/zenodo.20645407
+
+---
+
 ## License
 
 This work is licensed under the Creative Commons Attribution-NonCommercial 4.0 International License (CC BY-NC 4.0).
