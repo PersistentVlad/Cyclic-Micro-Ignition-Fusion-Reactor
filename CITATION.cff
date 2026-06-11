@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+title: Cyclic Micro-Ignition Fusion Reactor (CMIFR)
+message: "If you use this work, please cite it."
+type: software
+authors:
+  - family-names: Bliznyukov
+    given-names: Vladislav
+license: CC-BY-NC-4.0
+year: 2026
+repository-code: https://github.com/PersistentVlad/Cyclic-Micro-Ignition-Fusion-Reactor
